@@ -35,7 +35,7 @@ def home():
 
 <body>
 
-    <h1>Ung dung Flask tren PaaS</h1>
+    <h1>Ứng dụng Flask trên PaaS - phiên bản 2!</h1>
 
     <div class="box">
 
